@@ -1,0 +1,25 @@
+Copyright (C) <year> <copyright holder(s)>
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+(1) The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+(2) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must state their perffered text editor and admit it's "not that great" in any resulting documentation.
+
+(3) Any person who uses, modifies, merges, publishes, distributes, sublicenses, and/or sells copies of this software while also being in ownership of an Xbox 360 must download the demo for "Zippy Push Kid" on Xbox Live Indie Games with their best effort.
+
+(4) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must tell their artist to get used to using whichever revision control software they happen to be using.
+
+(5) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must tell their team lead to get to meetings on time.
+
+(6) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must treat the master branch with respect and never push untested code to it.
+
+(7) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must complain about hitboxes in action games for one hour's worth of overtime without pay.
+
+(8) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must bicker about whether or not you're supposed to let tequila sit in the fridge before you sip it.
+
+(9) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must let their friends eat their Cheerios.
+
+(10) Any person who uses, modifies, merges, publishes, distributes, sublicensces, and/or sells copies of this software must claim that IN AS 2101 WAR WAS BEGINNING...
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
